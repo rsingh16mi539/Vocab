@@ -1,4 +1,4 @@
-vocabulary - the body of words used in a particular language.
+vocabulary - the body of words used in a particular language
 
 benevolent - showing or motivated by sympathy and understanding
 
@@ -7,3 +7,9 @@ bias - a partiality preventing objective consideration of an issue
 collaborate - work together on a common enterprise or project
 
 inevitable - incapable of being avoided or prevented
+
+psychologist - a scientist who specializes in the study and treatment of the mind and behavior : a specialist in psychology
+
+undertakers -  a person whose job is to arrange and manage funerals
+
+veterinarians - a person who is trained to give medical care and treatment to animals : an animal doctor
