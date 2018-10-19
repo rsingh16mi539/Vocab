@@ -14,4 +14,6 @@ undertakers -  a person whose job is to arrange and manage funerals
 
 veterinarians - a person who is trained to give medical care and treatment to animals : an animal doctor
 
-floccinaucinihilipilification - the action or habit of estimating something as worthless.
+floccinaucinihilipilification - the action or habit of estimating something as worthless
+
+hypothesis - a tentative insight that is not yet verified or tested
