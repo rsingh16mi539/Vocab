@@ -23,3 +23,5 @@ procrastinate - postpone doing what one should be doing
 furlough - A temporary leave of absence from military duty
 
 niche - A small concavity
+
+interlocutor - middleman
