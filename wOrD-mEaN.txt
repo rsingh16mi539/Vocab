@@ -25,3 +25,5 @@ furlough - A temporary leave of absence from military duty
 niche - A small concavity
 
 interlocutor - middleman
+
+ancillary - furnishing added support
